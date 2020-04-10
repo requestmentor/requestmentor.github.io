@@ -1,5 +1,5 @@
 ---
-title: About us
+title: About
 subtitle: something
 layout: page
 show_sidebar: false
