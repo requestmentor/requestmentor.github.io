@@ -5,3 +5,5 @@ layout: product-category
 show_sidebar: false
 sort: price
 ---
+
+our amazing mentors right here
