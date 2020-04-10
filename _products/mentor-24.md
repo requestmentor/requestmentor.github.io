@@ -1,0 +1,23 @@
+---
+title: PhD Student
+subtitle: Machine Learning
+description: description
+product_code: ABC124
+layout: product
+image: https://scontent-den4-1.xx.fbcdn.net/v/t1.0-9/74209280_2473245186062615_2139221535376801792_n.jpg?_nc_cat=110&_nc_sid=174925&_nc_oc=AQnb_-KXRh1bsTrPMFJQwlrUWHQutmfSvZ21thWEOr2WANSCDYVhmC5cn4Upej5HYnA&_nc_ht=scontent-den4-1.xx&oh=58bdcabaf42475e5eb30c3c865602654&oe=5EB72D96
+price: £1.99 + VAT
+features:
+  - label: Great addition to any home
+    icon: fa-location-arrow
+  - label: Comes in a range of styles
+    icon: fa-grin-stars
+  - label: Available in multiple sizes
+    icon: fa-fighter-jet
+rating: 3
+---
+
+This is the content about the product.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent mauris lacus, semper vel massa mattis, ullamcorper auctor libero. Maecenas sit amet ultricies erat. Curabitur eleifend est eget sagittis convallis. Mauris sit amet placerat lacus. Pellentesque vehicula quis massa ac lacinia. Vivamus gravida bibendum tincidunt. Sed eget augue vitae ligula ultricies lacinia a eget augue. Donec vulputate metus ut ante scelerisque sollicitudin. Nullam commodo suscipit venenatis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Ut tristique pharetra mollis.
+
+Praesent ut accumsan mauris. Maecenas tempus finibus lectus, in iaculis mauris lobortis ac. Proin ipsum erat, imperdiet at arcu a, egestas hendrerit turpis. Suspendisse in lectus lacinia, sollicitudin felis non, auctor urna. Ut lacinia, ligula a cursus fringilla, diam arcu semper orci, quis sagittis eros quam nec ante.

@@ -1,0 +1,11 @@
+style: is-light
+items:
+  - title: Free
+    subtitle: No money involved
+    icon: fa-dollar-sign
+  - title: Verified
+    subtitle: All the mentors are verified
+    icon: fa-user-check
+  - title: हेप्नी
+    subtitle: नेपाली हो नि
+    icon: fa-globe-asia
