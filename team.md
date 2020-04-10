@@ -1,6 +1,6 @@
 ---
 title: Team
-subtitle: something
+subtitle: सबै आफ्नै हुन्
 layout: page
 show_sidebar: false
 permalink: /team/
@@ -8,5 +8,4 @@ permalink: /team/
 
 ## Team
 
-Kshitij Raj Lohani
-for now just me, if you want to get inolve let me know.
+For now its just me [Kshitij Raj Lohani](https://kshitijlohani.com/), if you want to get inolve let me know.
