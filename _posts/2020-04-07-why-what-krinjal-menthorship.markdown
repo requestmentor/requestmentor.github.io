@@ -3,7 +3,7 @@ layout: post
 title: what/why Krinjal mentorship
 date: 2020-04-07 21:30:43 -0500
 categories: krinjal
-image: /img/csrhymes-com.jpg
+image: https://res.cloudinary.com/www-virgin-com/w_800,c_scale,dpr_1.0,f_auto,fl_lossy,q_auto/virgin-com-prod/sites/virgin.com/files/bcoe.png
 ---
 
 Since a along time i had two dreams;
