@@ -22,3 +22,7 @@ Now the first batch (i am calling it batch-0) is going to be an experimental bat
 My desire is to provide mentorship to anyone who applies. However, since mentors can only give time to small number of people, i cannot accept everyone. But, those who do not get accepted in this batch, will be given high priority for next batch. Thus, the main factor we see is the urgency of the mentee to be in current batch.
 
 I am so thankful to all the mentors who have volunteered their time to help their youngsters.
+
+I hope Krinjal Mentorship will help a lot of youngsters in their career and life.
+
+Kshitij Raj Lohani

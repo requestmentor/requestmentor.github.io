@@ -4,8 +4,7 @@ subtitle: Internship help, college application
 description: description
 product_code: ABC124
 layout: product
-image: https://scontent-den4-1.xx.fbcdn.net/v/t1.0-9/75247428_2801948673182730_8695448946186649600_o.jpg?_nc_cat=100&_nc_sid=730e14&_nc_oc=AQnGvhnQ0ConvAMBXYPiz81dS0v55pTpkPnwSqRbGAe2vbl3qE1K4hkz44MtPT50EXs&_nc_ht=scontent-den4-1.xx&oh=d12238e20cb56bdaea1efb39aa3d05c8&oe=5EB39290
-price: £1.99 + VAT
+image: "/img/an.png"
 features:
   - label: Great addition to any home
     icon: fa-location-arrow

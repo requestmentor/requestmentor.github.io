@@ -1,6 +1,6 @@
 ---
 title: About
-subtitle: something
+subtitle: यहाँ खुट्टा तान्ने हैन, साथ दिने नेपालीहरु छन् ।
 layout: page
 show_sidebar: false
 permalink: /about/
