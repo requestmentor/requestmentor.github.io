@@ -4,7 +4,7 @@ subtitle: Machine Learning, data science, college application
 description: description
 product_code: ABC124
 layout: product
-image: "/img/ano.png"
+image: "/img/adi.png"
 price: £1.99 + VAT
 features:
   - label: Great addition to any home

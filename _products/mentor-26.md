@@ -1,10 +1,10 @@
 ---
-title: Microsoft
-subtitle: Programming
-description: description
+title: Grad student
+subtitle: Academia, College application
+description: Chand
 product_code: ABC124
 layout: product
-image: "/img/ut.png"
+image: "/img/cha.png"
 price: £1.99 + VAT
 features:
   - label: Great addition to any home

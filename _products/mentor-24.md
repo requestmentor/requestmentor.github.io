@@ -4,7 +4,7 @@ subtitle: Machine Learning
 description: description
 product_code: ABC124
 layout: product
-image: https://scontent-den4-1.xx.fbcdn.net/v/t1.0-9/74209280_2473245186062615_2139221535376801792_n.jpg?_nc_cat=110&_nc_sid=174925&_nc_oc=AQnb_-KXRh1bsTrPMFJQwlrUWHQutmfSvZ21thWEOr2WANSCDYVhmC5cn4Upej5HYnA&_nc_ht=scontent-den4-1.xx&oh=58bdcabaf42475e5eb30c3c865602654&oe=5EB72D96
+image: "/img/dix.png"
 price: £1.99 + VAT
 features:
   - label: Great addition to any home

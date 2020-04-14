@@ -1,10 +1,10 @@
 ---
-title: PhD Student
-subtitle: Machine Learning
-description: description
+title: Apple
+subtitle: Machine Learning, Data science
+description: gajendra
 product_code: ABC124
 layout: product
-image: https://via.placeholder.com/640x480
+image: "/img/ga.jpg"
 price: £1.99 + VAT
 features:
   - label: Great addition to any home
