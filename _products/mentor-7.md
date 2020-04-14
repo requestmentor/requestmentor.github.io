@@ -4,7 +4,7 @@ subtitle: Grad application, eletrical projects
 description: description
 product_code: ABC124
 layout: product
-image: https://via.placeholder.com/640x480
+image: "/img/nab.png"
 price: £1.99 + VAT
 features:
   - label: Great addition to any home

@@ -1,6 +1,6 @@
 ---
 title: Amazon, Samsung
-subtitle: Machine Learning
+subtitle: Android, Embedded OS and Data Science
 description: description
 product_code: ABC124
 layout: product
