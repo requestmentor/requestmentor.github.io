@@ -1,5 +1,4 @@
-
-<nav class="navbar is-primary" >
+<nav class="navbar is-primary">
     <div class="container">
         <div class="navbar-brand">
             <a href="{{ site.baseurl }}/" class="navbar-item">
@@ -16,25 +15,40 @@
                 <a href="{{ site.baseurl }}/" class="navbar-item {% if page.url == "/" %}is-active{% endif %}">Home</a>
                 {% if site.data.navigation %}
                 {% for item in site.data.navigation %}
-                    {% if item.dropdown %}
-                    <div class="navbar-item has-dropdown is-hoverable">
-                        <a href="{{ item.link | prepend: site.baseurl }}" class="navbar-link {% if item.link == page.url %}is-active{% endif %}">{{ item.name }}</a>
-                        <div class="navbar-dropdown">
-                            {% for subitem in item.dropdown %}
-                            <a href="{{ subitem.link | prepend: site.baseurl }}" class="navbar-item {% if subitem.link == page.url %}is-active{% endif %}">{{ subitem.name }}</a>
-                            {% endfor %}
-                        </div>
+                {% if item.dropdown %}
+                <div class="navbar-item has-dropdown is-hoverable">
+                    <a href="{{ item.link | prepend: site.baseurl }}"
+                        class="navbar-link {% if item.link == page.url %}is-active{% endif %}">{{ item.name }}</a>
+                    <div class="navbar-dropdown">
+                        {% for subitem in item.dropdown %}
+                        <a href="{{ subitem.link | prepend: site.baseurl }}"
+                            class="navbar-item {% if subitem.link == page.url %}is-active{% endif %}">{{ subitem.name }}</a>
+                        {% endfor %}
                     </div>
-                    {% else %}
-                    <a href="{{ item.link | prepend: site.baseurl }}" class="navbar-item {% if item.link == page.url %}is-active{% endif %}">{{ item.name }}</a>
-                    {% endif %}
+                </div>
+                {% else %}
+                <a href="{{ item.link | prepend: site.baseurl }}"
+                    class="navbar-item {% if item.link == page.url %}is-active{% endif %}">{{ item.name }}</a>
+                {% endif %}
                 {% endfor %}
                 {% endif %}
             </div>
 
             <div class="navbar-end">
+                {% if site.facebook %}
+                <a class="navbar-item" href="{{ site.facebook }}">
+                    <span class="icon gh-sponsor"><i class="fas fa-heart"></i></span>
+                    <span>Facebook</span>
+                </a>
+                {% endif %}
+                {% if site.youtube %}
+                <a class="navbar-item" href="{{ site.youtube }}">
+                    <span class="icon gh-sponsor"><i class="fas fa-heart"></i></span>
+                    <span>Youtube</span>
+                </a>
+                {% endif %}
                 {% if site.gh_sponsor %}
-                <a class="navbar-item" href="https://github.com/sponsors/{{ site.gh_sponsor }}">
+                <a class="navbar-item" href="{{ site.gh_sponsor }}">
                     <span class="icon gh-sponsor"><i class="fas fa-heart"></i></span>
                     <span>Sponsor</span>
                 </a>
