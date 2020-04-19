@@ -10,10 +10,10 @@ show_sidebar: true
 
 I am very happy to share with you all that the mentee registration for batch 0 has started.
 
-- Application starts: April 13
-- Application closes: April 20
-- Results: April 24
-- Mentorship period: May 1 - June 31
+- Application starts: April 19
+- Application closes: April 26
+- Results: May 1
+- Mentorship period: May First week - June 31
 
 ## Mentee Registration
 
