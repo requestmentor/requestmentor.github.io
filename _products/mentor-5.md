@@ -1,6 +1,6 @@
 ---
 title: FinSight CPA & Analytics
-subtitle: Entrepreneruship
+subtitle: Entrepreneurship
 description: description
 product_code: ABC124
 layout: product

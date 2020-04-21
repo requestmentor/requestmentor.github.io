@@ -1,10 +1,10 @@
 ---
-title: Veniqa
-subtitle: Machine Learning, Data science, Entreprenurship
+title: Veniqa, Qarece, HackWears
+subtitle: Machine Learning, Data science, Entrepreneurship
 description: description
 product_code: ABC124
 layout: product
-image: https://scontent-den4-1.xx.fbcdn.net/v/t1.0-9/1520681_938036459539792_7729016749895765871_n.jpg?_nc_cat=108&_nc_sid=174925&_nc_oc=AQl29gsqctHDl_4Na3c9PDbcBd02oqUZM9Aj_52j2fh24kLNkfFasyt4xeg_iGyKLVc&_nc_ht=scontent-den4-1.xx&oh=abbf9db5ac101217216a8755ab682747&oe=5EB6912B
+image: "/img/ej.png"
 price: £1.99 + VAT
 features:
   - label: Great addition to any home

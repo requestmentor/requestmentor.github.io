@@ -4,7 +4,7 @@ subtitle: Machine Learning, cybersecurity
 description: description
 product_code: ABC124
 layout: product
-image: https://scontent-den4-1.xx.fbcdn.net/v/t1.0-9/13226858_10209429015745094_2961820803477126699_n.jpg?_nc_cat=100&_nc_sid=174925&_nc_oc=AQmZifepCuTKzoSFDlnH-36odGefbANhAEaODbB0WOb1yX61T27qOmpF1lztYJrYmQw&_nc_ht=scontent-den4-1.xx&oh=7cf7109b701c68dbf842339d1d41307a&oe=5EB4691E
+image: "/img/sush.png"
 price: £1.99 + VAT
 features:
   - label: Great addition to any home
