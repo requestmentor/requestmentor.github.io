@@ -14,6 +14,7 @@ permalink: /channels/
 - random
 - seekers-job
 - seekers-internship
+- topic-resumes
 
 **private**
 
@@ -31,7 +32,7 @@ permalink: /channels/
 - topic-economics
 - topic-eletrical-engineering
 - topic-entrepreneurship
-- topic-hardward
+- topic-hardware
 - topic-internship
 - topic-law
 - topic-machine-learning-and-ai
@@ -39,5 +40,6 @@ permalink: /channels/
 - topic-nursing
 - topic-physics
 - topic-research
-- topic-resumes
 - topic-software
+- topic-marketing
+- topic-mechanical-engineering
