@@ -6,6 +6,8 @@ show_sidebar: false
 permalink: /channels/
 ---
 
+Please request if you want to add any new channel. However, we will add new channel only if we can find atleast one mentor on that topic.
+
 **public**
 
 - general
